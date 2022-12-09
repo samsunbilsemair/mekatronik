@@ -1,0 +1,2 @@
+# mekatronik
+derslerdeki kodları aktaracağız
